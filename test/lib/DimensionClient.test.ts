@@ -141,7 +141,7 @@ describe('DimensionClient', () => {
           }
         ],
         hash:
-          'ceaaa76e7fb850a09d5c9d16ac995cb52eff2944066cfd8cac27f3595f11b652',
+          '29f2ca1ef47998f78d67740cd212eb9605f1ebb92b10014964145664ae97233b',
         header: {
           account:
             '012d9dded24145247421eb8b904dda5cce8a7c77ae18de819a25628c4a01adbf76',
